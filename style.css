@@ -133,9 +133,9 @@ header {
   background-image: url(./assets/bg-explorer.svg);
   width: 354px;
   height: 508px;
-  position: fixed;
   top: 165px;
-  left: 10px;
+  left: 100px;
+
 }
 
 .foto {
@@ -162,3 +162,6 @@ header {
   margin-left: 70px;
   text-align: left;
 }
+
+
+

@@ -62,3 +62,4 @@ document.querySelector("#app").innerHTML = `
       creatGame("brazil", "16:00", "cameroon")
   )}
   </main>`
+
